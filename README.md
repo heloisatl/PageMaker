@@ -46,4 +46,3 @@ Esta ferramenta web permite que usuários criem páginas HTML personalizadas atr
    - Use "Gerar Código" para ver o HTML/CSS
    - Faça download dos arquivos gerados
 
-## 📁 Estrutura do Projeto
